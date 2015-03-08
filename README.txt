@@ -7,3 +7,5 @@ Repository créé pour le tp final de la deuxième partie du cours openclassroomm G
 Ce repository contient deux fichiers:
 	* fichier1.txt
 	* fichier2.txt
+	
+Ce repository sera envoyé sur GitHub
