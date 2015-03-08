@@ -1,1 +1,2 @@
 Première phrase du fichier2.txt
+Deuxième phrase du fichier2.txt
